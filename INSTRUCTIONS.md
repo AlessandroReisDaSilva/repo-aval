@@ -28,7 +28,7 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 ## 🚌Entrega🚌
 - A entrega da atividade se dá diante da abertura do merge request e aprovação.
 - Apenas um membro da equipe deverá abrir o merge request, **mas todos devem entregar o link do MR via blackboard.**
-- Deve acontecer até 16/09/2025.
+- Deve acontecer até 27/04/2026.
 
 ## 🚀Playlist de apoio🚀
 
