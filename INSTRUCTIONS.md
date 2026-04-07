@@ -23,7 +23,7 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 - [X] Os commits não devem agrupar muito código.
 - [X] Os membros do grupo devem ser adicionados no README do projeto na seção de Contribuidores.
 - [X] Em um commit a parte, altere o Readme do projeto e adicione os membros da equipe como contribuidores.
-- [ ] **APAGAR AS INFORMAÇÕES DE EXEMPLO DO TEMPLATE DE MR E INSERIR AS DO MR DO TIME**
+- [X] **APAGAR AS INFORMAÇÕES DE EXEMPLO DO TEMPLATE DE MR E INSERIR AS DO MR DO TIME**
 
 ## 🚌Entrega🚌
 - A entrega da atividade se dá diante da abertura do merge request e aprovação.

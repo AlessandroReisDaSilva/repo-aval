@@ -3,7 +3,7 @@ function sum(v1, v2) {
     return v1 + v2;
 }
 
-console.log("Subtração" + sum(5, 3))
+console.log("Soma" + sum(5, 3))
 
 // retorna o valor da subtração entre os dois parâmetros
 function sub(v1, v2) {
